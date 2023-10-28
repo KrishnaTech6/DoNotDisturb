@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Navigat" />
+    <option name="mostRecentlyUsed" value="MapBoxFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="MapBoxFragment" />
         <option value="Navigat" />
         <option value="package:mine " />
         <option value="package:com.doubtless.doubtles" />
