@@ -5,6 +5,16 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="cbae1dea" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="4d32aab7" />
           </Key>
         </key>
