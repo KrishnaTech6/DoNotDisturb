@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="api" />
     <option name="nonFavorites">
       <list>
+        <option value="api" />
+        <option value="message" />
+        <option value="drone" />
+        <option value="Drone" />
+        <option value="dronekit" />
+        <option value="Start" />
+        <option value="mavlink" />
         <option value="Krishna" />
         <option value="Auth" />
         <option value="AuthQuick" />
@@ -16,8 +23,6 @@
         <option value="MapBoxFragment" />
         <option value="Navigat" />
         <option value="package:mine " />
-        <option value="package:com.doubtless.doubtles" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
