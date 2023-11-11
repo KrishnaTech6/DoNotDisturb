@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="params" />
         <option value="api" />
         <option value="message" />
         <option value="drone" />
@@ -22,7 +23,6 @@
         <option value="amplify" />
         <option value="MapBoxFragment" />
         <option value="Navigat" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
