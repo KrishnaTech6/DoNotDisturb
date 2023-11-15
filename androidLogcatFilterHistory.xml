@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Progress" />
     <option name="nonFavorites">
       <list>
+        <option value="Progress" />
         <option value="parame" />
         <option value="params" />
         <option value="api" />
@@ -22,7 +23,6 @@
         <option value="Amplify" />
         <option value="initialized" />
         <option value="amplify" />
-        <option value="MapBoxFragment" />
       </list>
     </option>
   </component>
