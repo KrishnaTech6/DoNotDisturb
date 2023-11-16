@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AuthQuic" />
+    <option name="mostRecentlyUsed" value="Auth" />
     <option name="nonFavorites">
       <list>
+        <option value="Auth" />
         <option value="AuthQuic" />
         <option value="AuthQuick" />
         <option value="Progress" />
@@ -16,7 +17,6 @@
         <option value="Start" />
         <option value="mavlink" />
         <option value="Krishna" />
-        <option value="Auth" />
         <option value="Yo1" />
         <option value="Yo" />
         <option value="Hello" />
