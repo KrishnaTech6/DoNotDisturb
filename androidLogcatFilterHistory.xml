@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Auth" />
+    <option name="mostRecentlyUsed" value="auth" />
     <option name="nonFavorites">
       <list>
+        <option value="auth" />
         <option value="Auth" />
         <option value="AuthQuic" />
         <option value="AuthQuick" />
@@ -22,7 +23,6 @@
         <option value="Hello" />
         <option value="sign" />
         <option value="Amplify" />
-        <option value="initialized" />
       </list>
     </option>
   </component>
