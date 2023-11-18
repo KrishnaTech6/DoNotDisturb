@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Drone" />
     <option name="nonFavorites">
       <list>
+        <option value="Drone" />
         <option value="connected" />
         <option value="Connected" />
         <option value="startAct" />
@@ -22,7 +23,6 @@
         <option value="Progress" />
         <option value="parame" />
         <option value="params" />
-        <option value="api" />
       </list>
     </option>
   </component>
