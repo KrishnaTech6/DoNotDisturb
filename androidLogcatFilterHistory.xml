@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="1033" />
+    <option name="mostRecentlyUsed" value="param size" />
     <option name="nonFavorites">
       <list>
+        <option value="param size" />
         <option value="1033" />
         <option value="DroneMav" />
         <option value="Drone" />
@@ -22,7 +23,6 @@
         <option value="Checksum" />
         <option value="Mav Link" />
         <option value="MavLink123" />
-        <option value="Mav" />
       </list>
     </option>
   </component>
