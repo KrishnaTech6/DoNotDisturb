@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Drone" />
+    <option name="mostRecentlyUsed" value="file" />
     <option name="nonFavorites">
       <list>
+        <option value="file" />
+        <option value="statustext" />
+        <option value="DroneMav" />
+        <option value="param" />
+        <option value="received" />
+        <option value="Error" />
         <option value="Drone" />
         <option value="connected" />
         <option value="Connected" />
@@ -17,12 +23,6 @@
         <option value="message" />
         <option value="warn" />
         <option value="auth" />
-        <option value="Auth" />
-        <option value="AuthQuic" />
-        <option value="AuthQuick" />
-        <option value="Progress" />
-        <option value="parame" />
-        <option value="params" />
       </list>
     </option>
   </component>
