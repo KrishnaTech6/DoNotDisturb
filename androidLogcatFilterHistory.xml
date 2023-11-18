@@ -3,8 +3,10 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="progress" />
+        <option value="para" />
+        <option value="drone is ready" />
         <option value="param size" />
+        <option value="progress" />
         <option value="1033" />
         <option value="DroneMav" />
         <option value="Drone" />
@@ -21,8 +23,6 @@
         <option value="Drone Class" />
         <option value="mav" />
         <option value="chec" />
-        <option value="Checksum" />
-        <option value="Mav Link" />
       </list>
     </option>
   </component>
