@@ -3,6 +3,9 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="FileWrite" />
+        <option value="file" />
+        <option value="error " />
         <option value="para" />
         <option value="drone is ready" />
         <option value="param size" />
@@ -12,7 +15,6 @@
         <option value="Drone" />
         <option value="DroneMa" />
         <option value="DroneText" />
-        <option value="file" />
         <option value="statustext" />
         <option value="param" />
         <option value="received" />
@@ -21,8 +23,6 @@
         <option value="Connected" />
         <option value="startAct" />
         <option value="Drone Class" />
-        <option value="mav" />
-        <option value="chec" />
       </list>
     </option>
   </component>
