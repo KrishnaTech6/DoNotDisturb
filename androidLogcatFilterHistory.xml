@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="MavRe" />
     <option name="nonFavorites">
       <list>
+        <option value="MavRe" />
+        <option value="MavR" />
+        <option value="mav" />
+        <option value="MavRec" />
         <option value="Event" />
         <option value="param123" />
         <option value="end" />
@@ -19,10 +23,6 @@
         <option value="file" />
         <option value="error " />
         <option value="para" />
-        <option value="drone is ready" />
-        <option value="progress" />
-        <option value="1033" />
-        <option value="Drone" />
       </list>
     </option>
   </component>
