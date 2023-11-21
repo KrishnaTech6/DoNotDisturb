@@ -3,12 +3,13 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="param123" />
+        <option value="end" />
         <option value="battery" />
         <option value="DroneMav" />
         <option value="param1234" />
         <option value="param" />
         <option value="parameters " />
-        <option value="param123" />
         <option value="DroneMav43" />
         <option value="paramete" />
         <option value="Checksum " />
@@ -22,7 +23,6 @@
         <option value="1033" />
         <option value="Drone" />
         <option value="DroneMa" />
-        <option value="DroneText" />
       </list>
     </option>
   </component>
