@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="MavUpd" />
     <option name="nonFavorites">
       <list>
+        <option value="MavUpd" />
         <option value="UserPa" />
         <option value="MavRe" />
         <option value="MavR" />
@@ -22,7 +23,6 @@
         <option value="param size" />
         <option value="FileWrite" />
         <option value="file" />
-        <option value="error " />
       </list>
     </option>
   </component>
