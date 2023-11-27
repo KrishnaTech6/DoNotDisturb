@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MavUpdateFirmware" />
+    <option name="mostRecentlyUsed" value="Mav" />
     <option name="nonFavorites">
       <list>
+        <option value="Mav" />
         <option value="MavUpdateFirmware" />
         <option value="Loading" />
         <option value="MavUpd" />
@@ -22,7 +23,6 @@
         <option value="DroneMav43" />
         <option value="paramete" />
         <option value="Checksum " />
-        <option value="param size" />
       </list>
     </option>
   </component>
