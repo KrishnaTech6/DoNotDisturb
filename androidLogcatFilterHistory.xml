@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Mav" />
+    <option name="mostRecentlyUsed" value="mav" />
     <option name="nonFavorites">
       <list>
+        <option value="mav" />
         <option value="Mav" />
         <option value="MavUpdateFirmware" />
         <option value="Loading" />
@@ -10,7 +11,6 @@
         <option value="UserPa" />
         <option value="MavRe" />
         <option value="MavR" />
-        <option value="mav" />
         <option value="MavRec" />
         <option value="Event" />
         <option value="param123" />
