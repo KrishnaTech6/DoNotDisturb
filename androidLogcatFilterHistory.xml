@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Parameters" />
     <option name="nonFavorites">
       <list>
+        <option value="Parameters" />
         <option value="error" />
         <option value="File" />
-        <option value="Parameters" />
         <option value="ParametersList" />
         <option value="vIDE" />
         <option value="Video Rec" />
