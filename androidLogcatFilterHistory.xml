@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ParametersList" />
+    <option name="mostRecentlyUsed" value="Parameters" />
     <option name="nonFavorites">
       <list>
+        <option value="Parameters" />
         <option value="ParametersList" />
         <option value="vIDE" />
         <option value="Video Rec" />
@@ -22,7 +23,6 @@
         <option value="DroneMav" />
         <option value="param1234" />
         <option value="param" />
-        <option value="parameters " />
       </list>
     </option>
   </component>
