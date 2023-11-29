@@ -3,6 +3,12 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="TextMsg" />
+        <option value="mav" />
+        <option value="code" />
+        <option value="Checksum " />
+        <option value="param987" />
+        <option value="Param987" />
         <option value="Parameter" />
         <option value="Parameters" />
         <option value="error" />
@@ -10,7 +16,6 @@
         <option value="ParametersList" />
         <option value="vIDE" />
         <option value="Video Rec" />
-        <option value="mav" />
         <option value="Mav" />
         <option value="MavUpdateFirmware" />
         <option value="Loading" />
@@ -18,11 +23,6 @@
         <option value="UserPa" />
         <option value="MavRe" />
         <option value="MavR" />
-        <option value="MavRec" />
-        <option value="Event" />
-        <option value="param123" />
-        <option value="end" />
-        <option value="battery" />
       </list>
     </option>
   </component>
