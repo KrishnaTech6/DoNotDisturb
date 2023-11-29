@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="text" />
+    <option name="mostRecentlyUsed" value="MAVUpdate" />
     <option name="nonFavorites">
       <list>
+        <option value="MAVUpdate" />
+        <option value="update" />
+        <option value="DRONE IS LIVE" />
+        <option value="MAVrEC" />
+        <option value="MAVrE" />
+        <option value="PARAM NICE" />
+        <option value="mavReceive" />
+        <option value="param " />
         <option value="text" />
         <option value="mav" />
         <option value="drone" />
@@ -15,14 +23,6 @@
         <option value="Parameters" />
         <option value="error" />
         <option value="File" />
-        <option value="ParametersList" />
-        <option value="vIDE" />
-        <option value="Video Rec" />
-        <option value="Mav" />
-        <option value="MavUpdateFirmware" />
-        <option value="Loading" />
-        <option value="MavUpd" />
-        <option value="UserPa" />
       </list>
     </option>
   </component>
