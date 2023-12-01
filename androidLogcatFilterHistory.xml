@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="checksum" />
+        <option value="level:error " />
         <option value="startactivity" />
         <option value="chec" />
         <option value="Video Recording" />
@@ -11,7 +12,6 @@
         <option value="data" />
         <option value="data " />
         <option value="mav re" />
-        <option value="level:error " />
         <option value="Video" />
         <option value="mav recei" />
         <option value="mav receiv" />
