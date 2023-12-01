@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Video Recording" />
+    <option name="mostRecentlyUsed" value="checksum" />
     <option name="nonFavorites">
       <list>
+        <option value="checksum" />
+        <option value="startactivity" />
+        <option value="chec" />
         <option value="Video Recording" />
         <option value="video" />
         <option value="data" />
@@ -20,9 +23,6 @@
         <option value="text" />
         <option value="testMessage" />
         <option value="tes" />
-        <option value="mavRecei" />
-        <option value="e8" />
-        <option value="here" />
       </list>
     </option>
   </component>
