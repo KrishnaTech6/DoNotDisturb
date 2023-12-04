@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Aircra" />
     <option name="nonFavorites">
       <list>
+        <option value="Aircra" />
         <option value="checksum" />
         <option value="level:error " />
         <option value="startactivity" />
@@ -22,7 +23,6 @@
         <option value="mavRe" />
         <option value="text" />
         <option value="testMessage" />
-        <option value="tes" />
       </list>
     </option>
   </component>
