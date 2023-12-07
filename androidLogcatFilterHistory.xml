@@ -1,10 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="data" />
+    <option name="mostRecentlyUsed" value="data " />
     <option name="nonFavorites">
       <list>
+        <option value="data " />
+        <option value="mav message " />
+        <option value="progress" />
+        <option value="Loading" />
+        <option value="Progress" />
         <option value="data" />
         <option value="mav message" />
+        <option value="mav recei" />
         <option value="MAV Messa" />
         <option value="MAV" />
         <option value="MAV RE" />
@@ -17,12 +23,6 @@
         <option value="MSG(" />
         <option value="mav msg r" />
         <option value="MAV MSG sent" />
-        <option value="Mav message" />
-        <option value="Mav" />
-        <option value="Aircra" />
-        <option value="checksum" />
-        <option value="startactivity" />
-        <option value="chec" />
       </list>
     </option>
   </component>
