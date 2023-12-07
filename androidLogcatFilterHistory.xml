@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="error" />
         <option value="data" />
         <option value="ParametersLis" />
         <option value="ParameterLis" />
@@ -22,7 +23,6 @@
         <option value="video" />
         <option value="data " />
         <option value="mav re" />
-        <option value="Video" />
       </list>
     </option>
   </component>
