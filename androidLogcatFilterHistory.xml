@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MAV Messa" />
+    <option name="mostRecentlyUsed" value="mav message" />
     <option name="nonFavorites">
       <list>
+        <option value="mav message" />
         <option value="MAV Messa" />
         <option value="MAV" />
         <option value="MAV RE" />
@@ -22,7 +23,6 @@
         <option value="checksum" />
         <option value="startactivity" />
         <option value="chec" />
-        <option value="Video Recording" />
       </list>
     </option>
   </component>
