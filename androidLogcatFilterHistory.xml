@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="Vehicle" />
         <option value="mav" />
         <option value="Data" />
         <option value="Progress" />
@@ -22,7 +23,6 @@
         <option value="error" />
         <option value="ParametersLis" />
         <option value="ParameterLis" />
-        <option value="rtk" />
       </list>
     </option>
   </component>
