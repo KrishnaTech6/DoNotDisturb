@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Camera" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="Camera" />
         <option value="Camera View" />
-        <option value="level:error " />
         <option value="mav message " />
         <option value="data " />
         <option value="mav mess" />
