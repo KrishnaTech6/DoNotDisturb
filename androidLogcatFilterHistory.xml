@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="parame" />
         <option value="level:error " />
         <option value="Camera" />
         <option value="Camera View" />
@@ -22,7 +23,6 @@
         <option value="checks" />
         <option value="Loading" />
         <option value="mav message" />
-        <option value="mav recei" />
       </list>
     </option>
   </component>
