@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="krishna" />
     <option name="nonFavorites">
       <list>
+        <option value="krishna" />
         <option value="level:error " />
         <option value="imageUrl" />
         <option value="parame" />
@@ -22,7 +23,6 @@
         <option value="data" />
         <option value="progress" />
         <option value="checks" />
-        <option value="Loading" />
       </list>
     </option>
   </component>
