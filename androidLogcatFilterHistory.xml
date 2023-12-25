@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="ParametersLis" />
     <option name="nonFavorites">
       <list>
+        <option value="ParametersLis" />
+        <option value="Parameters" />
+        <option value="camera" />
+        <option value="list" />
+        <option value="parameter" />
+        <option value="parame" />
         <option value="LinkConnection" />
         <option value="LinkCon" />
         <option value="Drone" />
@@ -10,7 +16,6 @@
         <option value="krishna" />
         <option value="level:error " />
         <option value="imageUrl" />
-        <option value="parame" />
         <option value="Camera" />
         <option value="Camera View" />
         <option value="mav message " />
@@ -18,11 +23,6 @@
         <option value="mav mess" />
         <option value="mav messa" />
         <option value="progre" />
-        <option value="drone data " />
-        <option value="Vehicle" />
-        <option value="mav" />
-        <option value="Data" />
-        <option value="Progress" />
       </list>
     </option>
   </component>
