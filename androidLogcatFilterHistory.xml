@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="LinkConnection" />
+        <option value="LinkCon" />
         <option value="Drone" />
         <option value="param" />
         <option value="krishna" />
@@ -21,8 +23,6 @@
         <option value="mav" />
         <option value="Data" />
         <option value="Progress" />
-        <option value="data" />
-        <option value="progress" />
       </list>
     </option>
   </component>
