@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PARAM" />
+    <option name="mostRecentlyUsed" value="param" />
     <option name="nonFavorites">
       <list>
+        <option value="param" />
         <option value="PARAM" />
         <option value="pa" />
-        <option value="param" />
         <option value="Load Param" />
         <option value="Load " />
         <option value="Lo" />
