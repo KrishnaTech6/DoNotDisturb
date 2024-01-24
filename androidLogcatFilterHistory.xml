@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="param" />
+    <option name="mostRecentlyUsed" value="PARAM" />
     <option name="nonFavorites">
       <list>
+        <option value="PARAM" />
+        <option value="pa" />
         <option value="param" />
         <option value="Load Param" />
         <option value="Load " />
@@ -21,8 +23,6 @@
         <option value="LinkConnection" />
         <option value="LinkCon" />
         <option value="Drone" />
-        <option value="level:error " />
-        <option value="imageUrl" />
       </list>
     </option>
   </component>
