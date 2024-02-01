@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="VKFASKVK4XFAT4YL" />
+          </Key>
+        </key>
+        <name value="realme RMX3085" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="cbae1dea" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="CubePilot Optimus" />
         <target value="Android 7.1.1" />
         <api value="androidversion:25:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="VKFASKVK4XFAT4YL" />
-          </Key>
-        </key>
-        <name value="realme RMX3085" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
