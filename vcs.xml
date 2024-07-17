@@ -34,6 +34,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="krishna_rana" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/android/codelab-android-compose.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
