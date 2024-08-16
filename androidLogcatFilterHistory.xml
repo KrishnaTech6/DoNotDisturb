@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Member" />
     <option name="nonFavorites">
       <list>
+        <option value="Member" />
+        <option value="M" />
+        <option value="package:mine" />
         <option value="ShareErr" />
         <option value="Apkfile" />
         <option value="Share" />
@@ -20,9 +23,6 @@
         <option value="heart" />
         <option value="parame" />
         <option value="kri" />
-        <option value="Camera" />
-        <option value="ParametersLis" />
-        <option value="Parameters" />
       </list>
     </option>
   </component>
