@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="DataViewModel" />
+    <option name="mostRecentlyUsed" value="ImageEventAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="ImageEventAdapter" />
         <option value="DataViewModel" />
         <option value="MainActivity" />
         <option value="Glide" />
@@ -22,7 +23,6 @@
         <option value="pa" />
         <option value="Load Param" />
         <option value="Load " />
-        <option value="Lo" />
       </list>
     </option>
   </component>
