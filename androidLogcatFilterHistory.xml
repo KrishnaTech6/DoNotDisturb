@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Members Data" />
     <option name="nonFavorites">
       <list>
+        <option value="Members Data" />
+        <option value="Member" />
         <option value="format" />
         <option value="ImageEventAdapter" />
         <option value="DataViewModel" />
@@ -10,7 +12,6 @@
         <option value="Glide" />
         <option value="Image" />
         <option value="DataView" />
-        <option value="Member" />
         <option value="M" />
         <option value="package:mine" />
         <option value="ShareErr" />
@@ -22,7 +23,6 @@
         <option value="param" />
         <option value="PARAM" />
         <option value="pa" />
-        <option value="Load Param" />
       </list>
     </option>
   </component>
