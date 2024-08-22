@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Payment" />
     <option name="nonFavorites">
       <list>
+        <option value="Payment" />
         <option value="Members Data" />
         <option value="Member" />
         <option value="format" />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="param" />
         <option value="PARAM" />
-        <option value="pa" />
       </list>
     </option>
   </component>
