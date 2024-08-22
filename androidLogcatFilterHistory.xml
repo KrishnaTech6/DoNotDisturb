@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PaymentId" />
+    <option name="mostRecentlyUsed" value="Payment" />
     <option name="nonFavorites">
       <list>
-        <option value="PaymentId" />
         <option value="Payment" />
+        <option value="PaymentId" />
         <option value="Members Data" />
         <option value="Member" />
         <option value="format" />
