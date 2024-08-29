@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Viewmodel" />
     <option name="nonFavorites">
       <list>
+        <option value="Viewmodel" />
         <option value="ViewM" />
         <option value="Payment" />
         <option value="PaymentId" />
@@ -22,7 +23,6 @@
         <option value="Share" />
         <option value="apkapp" />
         <option value="whats" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
