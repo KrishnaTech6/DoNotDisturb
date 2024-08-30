@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Cloud " />
+    <option name="mostRecentlyUsed" value="Edit" />
     <option name="nonFavorites">
       <list>
-        <option value="Cloud " />
         <option value="Edit" />
         <option value="ViewModel" />
+        <option value="Cloud " />
         <option value="Viewmodel" />
         <option value="ViewM" />
         <option value="Payment" />
