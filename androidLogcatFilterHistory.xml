@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Upload" />
+    <option name="mostRecentlyUsed" value="upload" />
     <option name="nonFavorites">
       <list>
+        <option value="upload" />
+        <option value="Viewmode" />
         <option value="Upload" />
         <option value="View" />
         <option value="Viewmodel" />
-        <option value="upload" />
         <option value="uploadi" />
         <option value="event" />
         <option value="Edit" />
@@ -22,7 +23,6 @@
         <option value="format" />
         <option value="ImageEventAdapter" />
         <option value="DataViewModel" />
-        <option value="MainActivity" />
       </list>
     </option>
   </component>
