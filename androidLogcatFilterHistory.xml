@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ViewMo" />
+    <option name="mostRecentlyUsed" value="Edit" />
     <option name="nonFavorites">
       <list>
-        <option value="ViewMo" />
         <option value="Edit" />
+        <option value="Viewm" />
+        <option value="ViewMo" />
         <option value="ViewModel" />
         <option value="Cloud " />
         <option value="Viewmodel" />
@@ -22,7 +23,6 @@
         <option value="DataView" />
         <option value="M" />
         <option value="package:mine" />
-        <option value="ShareErr" />
       </list>
     </option>
   </component>
