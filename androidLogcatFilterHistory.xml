@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="register" />
+    <option name="mostRecentlyUsed" value="Viewm" />
     <option name="nonFavorites">
       <list>
+        <option value="Viewm" />
         <option value="register" />
         <option value="upload" />
         <option value="View" />
@@ -13,7 +14,6 @@
         <option value="uploadi" />
         <option value="event" />
         <option value="Edit" />
-        <option value="Viewm" />
         <option value="ViewMo" />
         <option value="ViewModel" />
         <option value="Cloud " />
