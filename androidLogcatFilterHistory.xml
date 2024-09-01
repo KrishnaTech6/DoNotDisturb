@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="upload" />
+        <option value="View" />
         <option value="viewmodel" />
         <option value="Viewmode" />
         <option value="Upload" />
-        <option value="View" />
         <option value="Viewmodel" />
         <option value="uploadi" />
         <option value="event" />
