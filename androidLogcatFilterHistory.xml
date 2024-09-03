@@ -3,6 +3,11 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="LoginADMINactivity" />
+        <option value="LoginAdmin" />
+        <option value="LoginAdminACTIVITY" />
+        <option value="LoginAdm" />
+        <option value="Admin" />
         <option value="Viewm" />
         <option value="register" />
         <option value="upload" />
@@ -18,11 +23,6 @@
         <option value="ViewModel" />
         <option value="Cloud " />
         <option value="ViewM" />
-        <option value="Payment" />
-        <option value="PaymentId" />
-        <option value="Members Data" />
-        <option value="Member" />
-        <option value="format" />
       </list>
     </option>
   </component>
