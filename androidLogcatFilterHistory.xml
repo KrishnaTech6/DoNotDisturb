@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="viewmo" />
     <option name="nonFavorites">
       <list>
+        <option value="viewmo" />
         <option value="LoginADMINactivity" />
         <option value="LoginAdmin" />
         <option value="LoginAdminACTIVITY" />
@@ -22,7 +23,6 @@
         <option value="ViewMo" />
         <option value="ViewModel" />
         <option value="Cloud " />
-        <option value="ViewM" />
       </list>
     </option>
   </component>
