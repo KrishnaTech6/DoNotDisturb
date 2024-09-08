@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Sys" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="MainActivity" />
         <option value="Sys" />
         <option value="System.out" />
         <option value="System" />
-        <option value="MainActivity" />
         <option value="RequestBody" />
         <option value="ViewM" />
         <option value="data" />
